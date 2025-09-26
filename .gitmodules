@@ -16,3 +16,6 @@
 [submodule "dmw2003NTSC"]
 	path = dmw2003NTSC
 	url = https://github.com/markisha64/dmw2003NTSC
+[submodule "dmw_2003_card_battle_disable"]
+	path = dmw_2003_card_battle_disable
+	url = https://github.com/markisha64/dmw_2003_card_battle_disable

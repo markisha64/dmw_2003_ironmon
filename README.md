@@ -4,6 +4,7 @@ collection of patches for the ironmon challange
 ## Features
 - 60fps NTSC
 - fixed field moves
+- disables card battles
 - disables forced encounters (like West Wire Forest Kuwagamon)
 - disables random encounters
 - disables fishing and kicking
