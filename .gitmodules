@@ -19,3 +19,6 @@
 [submodule "dmw_2003_card_battle_disable"]
 	path = dmw_2003_card_battle_disable
 	url = https://github.com/markisha64/dmw_2003_card_battle_disable
+[submodule "dmw_2003_no_cc"]
+	path = dmw_2003_no_cc
+	url = https://github.com/markisha64/dmw_2003_no_cc

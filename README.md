@@ -9,6 +9,7 @@ collection of patches for the ironmon challange
 - disables random encounters
 - disables fishing and kicking
 - uncapps digivolution xp gains
+- removes Tuskmons Counter Crest drop
 
 ## Patching
 Download either the IPS or XDELTA patch
