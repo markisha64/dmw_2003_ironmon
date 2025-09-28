@@ -10,6 +10,8 @@ collection of patches for the ironmon challange
 - disables fishing and kicking
 - uncapps digivolution xp gains
 - removes Tuskmons Counter Crest drop
+- skips the Folder Bag cutscene
+- makes the intro very fast
 
 ## Patching
 Download either the IPS or XDELTA patch
