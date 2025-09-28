@@ -22,3 +22,9 @@
 [submodule "dmw_2003_no_cc"]
 	path = dmw_2003_no_cc
 	url = https://github.com/markisha64/dmw_2003_no_cc
+[submodule "dmw_2003_folder_bag_cutscene_skip"]
+	path = dmw_2003_folder_bag_cutscene_skip
+	url = https://github.com/markisha64/dmw_2003_folder_bag_cutscene_skip
+[submodule "dmw_2003_fast_start"]
+	path = dmw_2003_fast_start
+	url = https://github.com/markisha64/dmw_2003_fast_start
