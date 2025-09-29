@@ -28,3 +28,6 @@
 [submodule "dmw_2003_fast_start"]
 	path = dmw_2003_fast_start
 	url = https://github.com/markisha64/dmw_2003_fast_start
+[submodule "dmw_2003_no_running_away"]
+	path = dmw_2003_no_running_away
+	url = https://github.com/markisha64/dmw_2003_no_running_away.git
