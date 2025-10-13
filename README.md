@@ -12,6 +12,7 @@ collection of patches for the ironmon challange
 - removes Tuskmons Counter Crest drop
 - skips the Folder Bag cutscene
 - makes the intro very fast
+- skips sepikmon mask quest
 - no running away
 
 ## Patching
