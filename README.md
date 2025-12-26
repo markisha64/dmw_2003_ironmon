@@ -14,6 +14,7 @@ collection of patches for the ironmon challange
 - makes the intro very fast
 - skips sepikmon mask quest
 - no running away
+- unlocks post game fights without epic weapons
 
 ## Patching
 Download either the IPS or XDELTA patch
