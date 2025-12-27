@@ -15,6 +15,8 @@ collection of patches for the ironmon challange
 - skips sepikmon mask quest
 - no running away
 - unlocks post game fights without epic weapons
+- TNT Chip baronmon is now accessible without visiting Pheonix Bay
+- Admin Center is now enterable after A.o.A. Ambusher
 
 ## Patching
 Download either the IPS or XDELTA patch

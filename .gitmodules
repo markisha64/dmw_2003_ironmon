@@ -37,3 +37,9 @@
 [submodule "dmw_2003_post_game_unlock"]
 	path = dmw_2003_post_game_unlock
 	url = https://github.com/markisha64/dmw_2003_post_game_unlock
+[submodule "dmw_2003_fast_baronmon"]
+	path = dmw_2003_fast_baronmon
+	url = https://github.com/markisha64/dmw_2003_fast_baronmon
+[submodule "dmw_2003_fast_admin_center"]
+	path = dmw_2003_fast_admin_center
+	url = https://github.com/markisha64/dmw_2003_fast_admin_center
